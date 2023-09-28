@@ -1,0 +1,281 @@
+  https://planergy.com/blog/accounts-payable-cycle/
+1 / 16Simplifying The Accounts Payable
+Process
+KEY TAKEAWAYS
+The accounts payable (AP) process begins when an invoice is received and
+ends when that invoice has been paid
+Manual AP processes can incur significant time and labor costs for any
+organization
+Automating the AP process using software creates significant benefits and
+simplifies the process
+AP automation improves processing times across the invoice lifecycle by
+300%
+The accounts payable process can be a cost-center or a value-driver, depending
+on how an organization approaches it. To capture the benefits of the accounts  https://planergy.com/blog/accounts-payable-cycle/
+2 / 16payable process and cut down on labor-intensive costs, automation is key.
+In this article, we’ll dive into what the accounts payable process is, how it works,
+and how automation can help organizations derive value from it.
+What Is Accounts Payable?
+Accounts payable (AP) is the department in a company that’s responsible for
+paying for the goods and services that the company purchases.
+The AP department’s main focus is to ensure that vendors and creditors get paid
+in a timely manner while maintaining good cash flow for the company. AP teams
+generally do not focus on purchasing but on making payments.
+The accounts payable cycle includes:
+Receiving and processing invoices from suppliers
+Matching invoices against purchase orders and receipts to ensure they
+are correct.
+Approving invoices or sending them back to vendors with more questions.
+Making payments via the vendor’s preferred method, whether that be
+wire, direct deposit, or paper checks.
+Setting up payment plans when necessary and ensuring installments are
+paid on time.
+What Is the Difference Between Accounts
+Payable and Accounts Receivable?
+Accounts payable and accounts receivable sound related and they are, but they
+are in some ways exact opposite workflows. That’s because one department is
+responsible for payments going out, and the other is responsible for payments  https://planergy.com/blog/accounts-payable-cycle/
+3 / 16coming in.
+Accounts payable is responsible for vendor payments, paying creditors, and
+paying other organizations that a company purchases goods and services from or
+owes money to.
+Accounts receivable is responsible for inbound payments that the company
+collects for goods and services they provide, which is in a way the opposite of
+accounts payable.
+In order to not get them confused, just remember that accounts payable (AP) is
+payments going out, while accounts receivable (AR) is payments coming in. For
+more on the differences and similarities, read our article on accounts payable vs
+accounts receivable .
+What Is the Accounts Payable Process?
+When issuing a payment, the accounts payable team goes through a process to
+ensure that payments are accurate and made on time. The accounts payable
+process includes the following steps:
+Invoice Is Received1.
+Invoices may arrive in many different forms: fax, email, mail, or through
+an invoicing software system. Without a process in place, invoices may be
+delivered to the wrong people, requiring extra work for the invoice to get
+approved and paid.
+Invoice Assigned for Processing2.
+After an invoice is received, it is forwarded to an appropriate person,  https://planergy.com/blog/accounts-payable-cycle/
+4 / 16either a department manager, the company accountant, or an accounts
+payable specialist. If a company is clear on its purchase order about who
+should receive the invoice, this step can be avoided.
+AP automation software  can automatically receive, process, and assign
+invoices to the right people.
+Invoice Entered Into the Accounting System3.
+The invoice data is then typed into the company’s accounting system, and
+the document may be scanned and saved. This step can also be automated
+using AP automation software, which can reduce the risk of double-entry.
+Invoice Approval Process4.
+The approval process includes verifying that the expense was initially
+approved by matching with the purchase order (PO), the complete
+shipment arrived and/or services were provided, and that the invoice is
+not a duplicate and already paid.
+It can be time-consuming to track down all the details for every invoice,
+but if your AP software integrates with upstream procurement data, as
+Planergy does, you can automate much of the process. This also helps to
+ensure payments are made early enough to capture early payment
+discounts—creating a positive effect on the balance sheet.
+Payment5.
+Once a series of vendor invoices are verified and approved, most
+companies will run a batch of payments. These can be either through
+paper checks sent in the mail, via ACH direct deposit  (in the US only), or  https://planergy.com/blog/accounts-payable-cycle/
+5 / 16through wire transfers.
+What Is the 3-Way Match Process in
+Accounts Payable?
+Accounts payable teams use the three-way match process  to ensure that they only
+pay invoices for the correct items and amounts. In 3-way matching, three
+documents (purchase order, orders receipt/goods receipt note, and invoice) are
+compared to each other to ensure that the quantity and price are correct.
+If all three documents match, then the invoice is paid. If there is a discrepancy,
+the accounts payable team can send the invoice back to get their questions
+answered by the supplier.  https://planergy.com/blog/accounts-payable-cycle/
+6 / 16
+There are some pros and cons to the 3-way match process. The pros are that it
+ensures that payments are made only for the correct amount and that it can help
+accounts payable teams from making duplicate payments. The cons come mostly
+from doing this process manually.
+Manually comparing receipts, purchase orders, and invoices either on paper or
+through a computer screen can be time-consuming and costly to pull off.
+Accounts payable automation software can streamline this process so that all the
+documents are automatically pulled and compared. Humans can verify that the
+matches are correct, but the software does the bulk of the tedious work.
+What Are the Challenges Facing Accounts
+Payable?
+Just like with 3-way matching, the majority of challenges accounts payable teams
+face comes from doing things manually. Doing things the hard way costs AP  https://planergy.com/blog/accounts-payable-cycle/
+7 / 16teams a lot of time and money, which can be avoided through software.
+Manual processes require AP professionals to manage the tasks by hand—filing
+paper documents, manual data entry, and matching numbers line by line to
+ensure the PO matches the invoice and delivery. These are costly and outdated
+ways to get things done, and they’re prone to human error and lack of oversight.
+Manual approval processes with multiple approvers involved can also weigh
+accounts payable teams down. Waiting on approvers to reply to emails and sign
+papers becomes a liability for late payments. Even with gentle reminders, the
+payment process takes so long that AP teams cannot qualify for any early
+payment discounts  that vendors offer (and may incur late fees).
+The approval delays are often caused by a lack of visibility of upstream data, an
+end-to-end AP software that covers 3-way matching ensures approvers can review
+relevant detail and approve faster. It can also reduce the number of approvers
+you  may  want  to  include,  especially  when  a  3-way  match  is  completed
+successfully.
+On top of that, any increase in volume can overload a manual AP process due to
+the amount of labor time and detail to complete the work. This results in data
+entry errors, invoice matching errors, and lost opportunities for early payment
+discounts.
+How Can You Streamline the Accounts
+Payable  Process?  The  Benefits  of
+Automation.
+For teams to streamline the accounts payable process, automation is key.
+2020 research  conducted by Ardent Partners found just 24.2% of invoices were  https://planergy.com/blog/accounts-payable-cycle/
+8 / 16being processed straight through. AP automation improves processing times
+across the invoice lifecycle by 300%; the attendant gains in speed, accuracy, and
+transparency translate to invoice processing costs that are six times lower than
+those relying on manual AP.
+With AP automation software, the second an invoice is received is when the
+automation begins. A program checks each line item against the PO and the
+receiving information to ensure that the goods and services ordered are the same
+as the items received and billed. If an error is found, an alert is sent to the
+accounts payable department for verification.
+With a pre-populated list of vendors, items, pricing, and payment terms in the
+system, the process requires minimal input from start to finish. Automation helps
+businesses  minimize  exceptions,  improve  invoice  reconciliations ,  streamline
+accruals ,  and  generate  accurate,  up-to-date  financial  statements  when  needed.
+The benefits for businesses who switch from manual processes to AP automation
+are numerous:
+Improved accounts payable governance
+Streamlined processes
+Increased productivity (more work with fewer employees)
+Accelerated invoice processing and timely payments
+Minimized risks associated with routine invoice payments
+Strengthened vendor relationships
+Better  negotiating  position  (due  to  improved  oversight  and  earlier
+payments)
+Integrating AP with ERP and accounting software
+Improved collaboration with the procurement and purchasing department
+The ability to assign GL codes and tax rates automatically, which benefits
+the accounting process as well as payment processing  https://planergy.com/blog/accounts-payable-cycle/
+9 / 16
+Following accounts payable best practices with an automated accounts payable
+system helps businesses stay within budget and maintain cash flow. Spend
+reporting tools give businesses the power to make informed decisions based on
+accurate  metrics.  This  can  prevent  leaks,  maverick  spending ,  fraud ,  and
+overpayment  errors  (while  ensuring  due  dates  aren’t  missed).
+The Automated Accounts Payable Process:
+Three Steps
+Unlike  the  five-step  manual  accounts  payable  process  outlined  above,  the
+automated process is reduced to just three steps:  https://planergy.com/blog/accounts-payable-cycle/
+10 / 16Receive an Invoice1.
+Using an AP automation system, invoices can be received digitally and
+automatically inputted into the system. Alternatively, paper invoices or
+those emailed outside of the system can be quickly uploaded.
+Invoice Data Extraction2.
+Automated systems scan and extract all data from the invoice and
+instantly  match  that  data  against  the  relevant  PO  and  receiving
+documents  to  ensure  accurate  pricing  and  quantity.
+Invoice processing3.
+Once confirmed for accuracy, invoices are then automatically processed
+for payment. This process can be reviewed manually or be done
+completely automatically for smaller payments or payments to trusted
+suppliers.
+The automated accounts payable process drastically reduces the amount
+of time and money spent on processing invoices. It also ensures higher
+levels of accuracy and reduces the number of incorrect invoices paid.  https://planergy.com/blog/accounts-payable-cycle/
+11 / 16
+With AP automation software, the second an invoice is received is when the
+automation begins. Invoice processing costs are six times lower in automated
+AP systems.
+What  Are  Best  Practices  in  Accounts
+Payable Processing?
+Following best practices in accounts payable  can help ensure that bills are paid
+on time and without incurring unnecessary costs. While every organization
+requires a customized accounts payable process to meet its unique needs, here
+are nine general best practices:
+Centralize the Accounts Payable Process1.
+All AP data and processes should go through a single system with a
+shared database. This makes it easier for every department to adhere to  https://planergy.com/blog/accounts-payable-cycle/
+12 / 16protocols, eliminates redundancy, and cuts down on processing time and
+data entry mistakes.
+Establish Paperless Processing2.
+Businesses that switch to automated AP systems from paper-based
+processes see numerous benefits such as more vendor transparency, more
+access to discounts, reduced processing time, and fewer errors.
+Set up Reminders for Payments3.
+This enables businesses to avoid late or missed payments, take advantage
+of discounts, and anticipate expenses.
+Streamline Routine Payments4.
+Implement accounts payable protocols to categorize and automatically
+approve certain types of requests made by specified people to streamline
+the approval process.
+Set up Vendor Portals5.
+Vendor portals allow vendors to track the status of deliveries, scheduling,
+contract terms, and invoicing in your system without the need to talk to a
+representative (so you save on time and labor costs while improving
+vendor relations).
+Automate Reporting6.
+Organizations should have instant access to real-time accruals, budget,
+and spend details. In the event of an audit, a budget meeting, or a request  https://planergy.com/blog/accounts-payable-cycle/
+13 / 16from the board, an accounts payable team using an eProcurement
+program should never have to scramble to produce a detailed report and
+can even set up scheduled reports.
+Implement 3-Way Matching7.
+As covered in an earlier section, 3-way matching ensures that only valid,
+accurate invoices are paid.
+Digitally Archive Data8.
+AP software makes digitally archiving records simple. At every step from
+PO to payment, documents are attached to the transaction record. Saving
+this documentation digitally allows teams to assess how well contract
+terms were fulfilled and when payment was made. It also makes it much
+easier to find documents and information for internal review or during
+audits.
+Manage Your Cash Flow9.
+Knowing upcoming expenses is critical to maintaining a budget. An
+automated accounts payable system helps ensure that there are no
+surprises. Cash flow can be managed by scheduled outgoing payments for
+when there is enough income to pay them. Build a cash reserve to fill gaps
+when cash flow slows and bills are due.
+Segregation of Duties10.
+No single person should have complete control over a company’s ability to
+make payments. This isn’t just a risk for fraud, but also a risk for human
+error, as having just one person responsible for internal controls isn’t a  https://planergy.com/blog/accounts-payable-cycle/
+14 / 16good idea. Separating duties and sharing responsibilities helps make sure
+that companies only pay for the goods and services they ordered and
+mitigates fraud risk.
+AP Automation Is Part of a Larger Process
+Despite its many advantages to manual AP systems, AP automation doesn’t solve
+every problem. Even in automated systems, there can still be a lack of upstream
+data to authorize payments and a lack of collaboration with procurement teams .
+That’s why taking an end-to-end, full-cycle approach to the AP process , and
+automating everything from start to finish (not just AP) can be more beneficial.
+Organizations that include AP automation as part of their entire procure-to-pay
+process—which includes procurement and purchasing as well as AP—take a
+better approach to addressing challenges that affect the entire organization,  https://planergy.com/blog/accounts-payable-cycle/
+15 / 16beyond just AP.
+The most advanced organizations unite the procurement, purchasing, and AP
+processes and enjoy the benefits of automation throughout each. Choosing
+software that can effectively manage each of these processes together is key to
+getting your organization there.
+What’s your goal today?
+1.  Use  Planergy  to  manage  purchasing  and  accounts
+payable
+We’ve helped save billions of dollars for our clients through better spend
+management, process automation in purchasing and finance, and reducing
+financial risks. To discover how we can help grow your business:
+Read our case studies, client success stories, and testimonials.
+Visit our Accounts Payable Automation Software  page to see how
+Planergy can automate your AP process reducing you the hours of manual
+processing, stoping erroneous payments, and driving value across your
+organization.
+Learn about us, and our long history of helping companies just like yours.
+Book a Live Demo
+2. Download our guide “Preparing Your AP Department For
+The Future”
+Download a free copy  of our guide to future proofing your accounts payable
+department. You’ll also be subscribed to our email newsletter  and notified about
+new articles or if have something interesting to share.  https://planergy.com/blog/accounts-payable-cycle/
+16 / 16download a free copy of our guide
+3. Learn best practices for purchasing, finance, and more
+Browse hundreds of articles , containing an amazing number of useful tools,
+techniques, and best practices. Many readers tell us they would have paid
+consultants for the advice in these articles.
+Related Posts
